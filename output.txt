@@ -1,0 +1,2 @@
+{"version":"1.0","previousBlockHash":"0000000000000000...","merkleRoot":"97160c7baaa6d0f526d6730124d5adfd7c3eb5bc1d8aaf00b711d100a5954595","timestamp":1713345057,"difficultyTarget":"0000ffff00000000...","nonce":87607,"hash":"0000cab1fcacf063017686e604b734db08092cef52ea51235303a1cb193d9f71"}
+{"minerAddress":"miner123","feesCollected":10}
